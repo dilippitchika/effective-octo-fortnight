@@ -1,0 +1,12 @@
+.loginPage{
+    margin: auto ;
+    max-width: 80%;
+}
+.headings{
+    margin-bottom: 2rem;
+}
+.loginInput{
+    margin-right: 12px;
+    margin-bottom:12px;
+    max-width: 30%;
+}

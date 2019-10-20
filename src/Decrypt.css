@@ -1,0 +1,13 @@
+.decryptInput{
+    max-width: 80%;
+    margin: 60px auto;
+}
+.toDecrypt{
+    margin-bottom:24px;
+}
+.headings{
+    margin-bottom: 32px;
+}
+.decryptButton{
+    margin-bottom:32px;
+}
